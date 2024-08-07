@@ -1,0 +1,14 @@
+[package]
+name = "rubiks_cube_simulation"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.14.1"
+bevy_dev = "0.3.1"
+bevy_dev_tools = "0.14.1"
+bevy_egui = "0.28.0"
+bevy_mod_picking = "0.20.1"
+bevy_panorbit_camera = "0.19.1"
+iyes_perf_ui = "0.3.0"
+rand = "0.8.5"
